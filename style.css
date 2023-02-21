@@ -1,0 +1,28 @@
+.logo{
+    width: 50px;
+    height: 50px;
+}
+.nav-item li:hover{
+    cursor: pointer;
+}
+.nav-item_dropdown li:hover{
+    cursor: pointer;
+}
+.link{
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+    
+}
+.trama{
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+}
+.titolo{
+    font-weight: bold;
+    text-align: center;
+}
+.table{
+    width: 75%;
+}
